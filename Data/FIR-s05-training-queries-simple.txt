@@ -1,0 +1,38 @@
+1	"cyclin-dependent kinase inhibitor 1A (p21, Cip1)" in Homo sapiens
+3	ets variant gene 6 (TEL oncogene) in Homo sapiens
+4	fibroblast growth factor 7 (keratinocyte growth factor) in Homo sapiens
+5	"glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)" in Homo sapiens
+6	"major histocompatibility complex, class II, DQ beta 1" in Homo sapiens
+7	Janus kinase 2 (a protein tyrosine kinase) in Homo sapiens
+8	luteinizing hormone/choriogonadotropin receptor in Homo sapiens
+9	metallothionein 3 (growth inhibitory factor (neurotrophic)) in Homo sapiens
+10	protein C (inactivator of coagulation factors Va and VIIIa) in Homo sapiens
+11	"ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)" in Homo sapiens
+12	tropomyosin 1 (alpha) in Homo sapiens
+13	frizzled homolog 4 (Drosophila) in Homo sapiens
+14	tyrosyl-tRNA synthetase in Homo sapiens
+15	major vault protein in Homo sapiens
+16	"adrenergic receptor, alpha 1d" in Mus musculus
+18	"caspase 3, apoptosis related cysteine protease" in Mus musculus
+20	"tumor necrosis factor (ligand) superfamily, member 6" in Mus musculus
+22	Indian hedgehog in Mus musculus
+23	"phospholipase C, gamma 1" in Mus musculus
+24	seven in absentia 2 in Mus musculus
+25	"deoxynucleotidyltransferase, terminal" in Mus musculus
+27	"cholinergic receptor, muscarinic 3" in Rattus norvegicus
+28	Early growth response 1 in Rattus norvegicus
+29	Glucokinase in Rattus norvegicus
+31	"Tachykinin (substance P, neurokinin A, neuropeptide K, neuropeptide gamma)" in Rattus norvegicus
+32	estrogen receptor 1 in Rattus norvegicus
+34	cocaine and amphetamine regulated transcript in Rattus norvegicus
+36	hopscotch in Drosophila melanogaster
+37	Slowpoke binding protein in Drosophila melanogaster
+38	eiger in Drosophila melanogaster
+39	shotgun in Drosophila melanogaster
+40	Signal-transducer and activator of transcription protein at 92E in Drosophila melanogaster
+42	crumbs in Drosophila melanogaster
+44	golgi phosphoprotein 2 in Homo sapiens
+45	sorting nexin 9 in Homo sapiens
+46	"ankylosis, progressive homolog (mouse)" in Homo sapiens
+48	"DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)" in Homo sapiens
+50	Pax-8 protein in Rattus norvegicus
